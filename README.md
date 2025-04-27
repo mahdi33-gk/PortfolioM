@@ -26,7 +26,7 @@ To run it locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/mahdi33-gk/PortfolioM.git
+git clone https://github.com/mehediScriptDev/PortfolioM.git
 
 # Navigate to the project folder
 cd PortfolioM
